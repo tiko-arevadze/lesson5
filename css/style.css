@@ -50,3 +50,91 @@ a {
 	margin-top: 20px;
 }
 /*end css styles for header*/
+/*start css styles for section 1*/
+body {
+	padding-top: 70px;
+}
+
+.container-block {
+	width: 1160px;
+	height: 410px;
+	margin: 0 auto;
+}
+.title {
+	font-size:20px ;
+	font-family: 'Benne', serif;
+	color: #202124;
+}
+.section-1 {
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+	margin-right: 20px;
+	margin-top: 20px;
+	position: relative;
+
+}
+.section-2 {
+    width: 360px;
+	height: 350px;
+	display: inline-block;
+	margin-right: 20px;
+	margin-top: 20px;
+	position: relative;
+
+}
+.section-3 {
+    width: 360px;
+	height: 350px;
+	display: inline-block;
+	margin-top: 20px;
+	position: relative;
+
+}
+.image-1 {
+	width: 360px;
+	margin-bottom: 50px;
+}
+.text-picture {
+	position: absolute;
+	top:30px ;
+	left:40px ;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-family: 'Benne', serif;
+
+}
+.text-picture2 {
+	position: absolute;
+	top:30px ;
+	left:40px ;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-family: 'Benne', serif;
+}
+.text-picture3 {
+    position: absolute;
+	top:30px ;
+	left:40px ;
+	color: #FFFFFF;	
+	font-size: 16px;
+	font-family: 'Benne', serif;
+}
+.text {
+	width: 260px;
+	height: 38px;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin: 0 auto;
+	line-height: 150%;
+	font-family: 'Hind', sans-serif;
+}
+.time {
+	font-size: 13px;
+	color: #A6ADB4;	
+} 
+.time-zone {
+	margin-left: 50px;
+	margin-top: 20px;
+}
+/*end css styles for section 1*/
