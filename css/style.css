@@ -138,3 +138,65 @@ body {
 	margin-top: 20px;
 }
 /*end css styles for section 1*/
+/*start section 2*/
+.container-block2 {
+	margin: 0 auto;
+}
+
+.section1 {
+	display: inline-block;
+	width:760px ;
+	width: 900px;
+	margin-right: 40px;
+
+}
+.section2{
+	display: inline-block;
+	width:360px ;
+	height: 870px;
+	vertical-align: top;
+
+}
+.photo-1 {
+	width: 760px;
+	margin-left: 145px;
+}
+.photo-2 {
+    width: 760px;
+    margin-top: 40px;
+    margin-left: 145px;
+}
+.photo-3 {
+	width: 360px;
+}
+.photo-4 {
+	width: 360px;
+	margin-top: 100px;
+
+}
+.photo-5 {
+	width: 360px;
+	margin-top: 100px;
+
+}
+.title1 {
+	margin-left: 145px;
+	color: #202124;
+	font-size: 20px;
+    font-family: 'Benne', serif;
+	margin-bottom: 30px;
+}
+.text-photo {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	font-size: 20px;
+    font-family: 'Benne', serif;
+    color:#FFFFFF ;
+
+}
+.unite {
+	position: relative;
+}
+/*end section 2*/
