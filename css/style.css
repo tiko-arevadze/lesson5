@@ -147,7 +147,6 @@ body {
 	display: inline-block;
 	width:760px ;
 	width: 900px;
-	margin-right: 40px;
 
 }
 .section2{
@@ -159,12 +158,12 @@ body {
 }
 .photo-1 {
 	width: 760px;
-	margin-left: 145px;
+	margin-left: 100px;
 }
 .photo-2 {
     width: 760px;
     margin-top: 40px;
-    margin-left: 145px;
+    margin-left: 100px;
 }
 .photo-3 {
 	width: 360px;
@@ -180,7 +179,7 @@ body {
 
 }
 .title1 {
-	margin-left: 145px;
+	margin-left: 100px;
 	color: #202124;
 	font-size: 20px;
     font-family: 'Benne', serif;
