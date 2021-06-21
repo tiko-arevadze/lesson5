@@ -1,0 +1,52 @@
+/*start css styles for header*/
+header {
+	background-color: #F6F8F9;
+	padding: 10px;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	z-index: 10;
+	height: 50px;
+}
+a {
+	text-decoration: none;
+}
+.navigation {
+	display: inline-block;
+}
+.nav-li {
+	display: inline-block;
+	font-size: 11px;
+	margin-right: 30px;
+
+}
+.nav-logo {
+	display: inline-block;
+	font-size: 13px;
+	color: #FA6980;
+	margin-right: 92px;
+   font-family: 'Benne', serif;
+}
+.logo {
+	display: inline-block;
+	width: 20px;
+	margin-left:40px;
+}
+.nav-a {
+	font-family: 'Benne', serif;
+	color: #343638;
+	opacity: 50%;
+}
+.nav-aa {
+	font-family: 'Benne', serif;
+	color: #343638;
+	opacity: 100%;
+}
+.head-title {
+	font-size: 20px;
+	color: #202124;
+	font-family: 'Benne', serif;
+	margin-top: 20px;
+}
+/*end css styles for header*/
