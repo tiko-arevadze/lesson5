@@ -200,3 +200,76 @@ body {
 	position: relative;
 }
 /*end section 2*/
+/*start css styles for footer*/
+.footer {
+	width: 1440px;
+	height: 200px;
+	background-color: #A6ADB4;
+	margin-top: 30px;
+	width: 100%;
+}
+.footer-1 {
+	display: inline-block;
+	margin-left: 100px;
+	margin-right: 125px;
+	vertical-align: top;
+	margin-top: 50px;
+	color: #FFFFFF;
+	font-family: 'Hind', sans-serif;
+}
+.tab1 {
+	display: inline-block;
+	margin-right: 95px;
+	margin-top: 50px;
+	line-height: 150%;
+ 	color: #CBD0D3;
+    font-family: 'Benne', serif;
+}
+.tab2 {
+	display: inline-block;
+	margin-right: 110px;
+	margin-top: 50px;
+	line-height: 150%;
+    color: #CBD0D3;
+    font-family: 'Benne', serif;
+
+}
+.tab3 {
+	display: inline-block;
+	margin-right: 105px;
+	margin-top: 50px;
+	line-height: 150%;
+	color: #CBD0D3;
+	font-family: 'Benne', serif;
+
+}
+.text-fin {
+	display: inline-block;
+	margin-right: 150px;
+	vertical-align: top;
+	margin-top: 50px;
+	color: #CBD0D3;
+	font-family: 'Benne', serif;
+
+}
+.instagram{
+	display: inline-block;
+	margin-right: 20px;
+}
+.twitter {
+	display: inline-block;
+	margin-right: 20px;
+}
+.facebook {
+	display: inline-block;
+	margin-right: 20px;
+}
+.web {
+	display: inline-block;
+}
+.pages {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 50px;
+}
+/*end css styles for footer*/
